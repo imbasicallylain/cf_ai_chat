@@ -1,4 +1,4 @@
-y# CF_AI_CHAT
+# CF_AI_CHAT
 
 An AI chat application that remembers context of the conversation using Cloudflare's worker AI on llama 3.3
 
