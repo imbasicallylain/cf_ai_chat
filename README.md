@@ -20,10 +20,10 @@ An AI chat application that remembers context of the conversation using Cloudfla
  - Cloudflare account (free tier works)
 
 # Requirements
-- LLM (recommend using Llama 3.3 on Workers AI), or an external LLM of your choice
-- Workflow / coordination (recommend using Workflows, Workers or Durable Objects)
-- User input via chat or voice (recommend using Pages or Realtime)
-- Memory or state
+- Llama 3.3
+- Workers and Durable Objects
+- User input via realtime with HTML
+- Memory using Durable Objects
 
 # Setup Instructions
 
