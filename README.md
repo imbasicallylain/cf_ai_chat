@@ -19,6 +19,12 @@ An AI chat application that remembers context of the conversation using Cloudfla
  - Node.js 20+
  - Cloudflare account (free tier works)
 
+# Requirements
+- LLM (recommend using Llama 3.3 on Workers AI), or an external LLM of your choice
+- Workflow / coordination (recommend using Workflows, Workers or Durable Objects)
+- User input via chat or voice (recommend using Pages or Realtime)
+- Memory or state
+
 # Setup Instructions
 
 ```bash
