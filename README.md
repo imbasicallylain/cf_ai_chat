@@ -12,7 +12,7 @@ An AI chat application that remembers context of the conversation using Cloudfla
 
 ## Components
 - **Workers AI**: Runs Llama 3.3 for generating AI responses
-- **Durable Objects**: Stores conversation history with persistance
+- **Durable Objects**: Stores conversation history with persistence
 - **Workers**: Routes requests and serves the chat interface
 
 # Prerequisites:
@@ -32,5 +32,5 @@ npx wrangler login
 npm run dev
 
 # Usage
-Visit http://localhost:8787 to use the chat inteface or press 'b' in the terminal 
+Visit http://localhost:8787 to use the chat interface or press 'b' in the terminal 
 
